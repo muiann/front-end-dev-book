@@ -120,6 +120,7 @@ font-family: airstreamregular;
     flex-direction: row;
     overflow: hidden;
   }
+}
 
   .thumbnail-list {
     flex-direction: column;
